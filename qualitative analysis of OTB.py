@@ -5,7 +5,8 @@ import cv2
 
 # 选择第几个视频
 # TODO:选择某个视频
-video_num = 36
+# 删除 fDSST 文件夹即可，或者使用其他方法将文件格式转换为utf-8格式
+video_num = 36 # choosed video_name: (36)-- Dog
 
 # TODO:数据集所在路径
 # src_pic_path = '../data/OTB100'
